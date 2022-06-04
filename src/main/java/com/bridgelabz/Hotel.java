@@ -55,10 +55,12 @@ public class Hotel {
     }
 
     public int getRewardsWeekendRate() {
+
         return rewardsWeekendRate;
     }
 
     public void setRewardsWeekendRate(int rewardsWeekendRate) {
+
         this.rewardsWeekendRate = rewardsWeekendRate;
     }
 
@@ -70,3 +72,11 @@ public class Hotel {
         this.rating = rating;
     }
 }
+
+
+
+
+
+
+
+
